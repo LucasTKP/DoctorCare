@@ -26,8 +26,8 @@ Colocar em prática técnicas, conceitos e tecnologias utilizadas no desenvolvim
   <br /> <br />
 
 ### 📷 Tela inicial:
-<div align="center">
-  <img href="https://projectdoctorcare.vercel.app/" src="imageProject.png" alt="Preview DoctorCare">
+<a href="https://projectdoctorcare.vercel.app/" align="center">
+  <img src="imageProject.png" alt="Preview DoctorCare">
 <!-- <kbd>[![]()]()<kbd> -->
-</div>
+</a>
 <br />
