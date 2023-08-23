@@ -27,6 +27,6 @@ Colocar em prática técnicas, conceitos e tecnologias utilizadas no desenvolvim
 
 ### 📷 Tela inicial:
 
-<kbd>[![Preview DoctorCare](https://drive.google.com/file/d/19eSrMrDuYkWif036S3YsiTrNpwaHmvvl/view)](https://projectdoctorcare.vercel.app/)</kbd>
+<kbd>[![Preview DoctorCare]([https://drive.google.com/file/d/19eSrMrDuYkWif036S3YsiTrNpwaHmvvl/view](https://firebasestorage.googleapis.com/v0/b/aredev-418e3.appspot.com/o/Prints%20To%20ReadMe%2FScreenshot_3.png?alt=media&token=bef193ad-c593-4a54-8358-d996302dcabf)https://firebasestorage.googleapis.com/v0/b/aredev-418e3.appspot.com/o/Prints%20To%20ReadMe%2FScreenshot_3.png?alt=media&token=bef193ad-c593-4a54-8358-d996302dcabf)](https://projectdoctorcare.vercel.app/)</kbd>
 
 <br />
