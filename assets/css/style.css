@@ -134,6 +134,7 @@ section .content p {
 #navigation .logo path[fill*="#00856F"], /* busca o fill que possui essa cor específica */
 #backToTopButton circle { 
     fill: var(--primary-color);
+    
 }
 
 body.menu-expanded #navigation .logo path,
@@ -480,6 +481,7 @@ footer .social-links {
     body {
         overflow: auto;
     }
+    
 
     .wrapper {
         width: min(112rem, 100%);
