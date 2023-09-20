@@ -3,7 +3,7 @@
 
 ### ☁️ Deploy:
 
-O <a href="https://github.com/LucasTKP/DoctorCare.git">Doctor Care</a> está hospedado no GitHub Pages.
+O <a href="https://github.com/LucasTKP/DoctorCare.git">Doctor Care</a> está hospedado na Vercel.
 <br /> <br />
 
 ### 💻 Projeto:
